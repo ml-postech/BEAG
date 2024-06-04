@@ -1,12 +1,8 @@
 # BEAG
- 
----
-
 - Implementation of [Breadth-First Exploration on Adaptive Grid for Reinforcement Learning](https://openreview.net/forum?id=59MYoLghyk) (ICML 2024) in PyTorch.
 - Our code is based on official implementation of [DHRL: A Graph-Based Approach for Long-Horizon and Sparse Hierarchical Reinforcement Learning](https://github.com/jayLEE0301/dhrl_official).
 
 ## Installation 
- ---
 - create conda environment
 ```
 conda create -n beag python=3.7
@@ -18,7 +14,6 @@ chmod +x ./scripts/*.sh
 ```
 
 ## Experiments
----
 - To reproduce our experiments, please run the script provided below
 - ./scripts/{ENV}.sh {GPU} {SEED}
 ```
@@ -28,7 +23,6 @@ example
 ```
 
 ## Citation
----
 ```bibtex
 @inproceedings{yoon2024beag,
   title={Breadth-First Exploration on Adaptive Grid for Reinforcement Learning},
