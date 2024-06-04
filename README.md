@@ -14,7 +14,7 @@ chmod +x ./scripts/*.sh
 ```
 
 ## Experiments
-To reproduce our experiments, please run the script provided below
+To reproduce our experiments, please run the script provided below\
 ./scripts/{ENV}.sh {GPU} {SEED}
 ```
 example
