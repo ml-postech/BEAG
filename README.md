@@ -5,7 +5,7 @@ Our code is based on official implementation of [DHRL: A Graph-Based Approach fo
 ## Installation 
 create conda environment
 ```
-conda create -n beag python=3.7
+conda env create -n beag -f env.yaml python=3.7
 conda activate beag
 ```
 if permission denied,
