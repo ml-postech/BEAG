@@ -28,6 +28,5 @@ example
   title={Breadth-First Exploration on Adaptive Grid for Reinforcement Learning},
   author={Yoon, Youngsik and Lee, Gangbok and Ahn, Sungsoo and Ok, Jungseul},
   booktitle={Forty-first International Conference on Machine Learning},
-  year={2024},
-  url={https://openreview.net/forum?id=59MYoLghyk}
+  year={2024}
 ```
