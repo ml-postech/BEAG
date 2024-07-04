@@ -29,4 +29,5 @@ example
   author={Yoon, Youngsik and Lee, Gangbok and Ahn, Sungsoo and Ok, Jungseul},
   booktitle={Forty-first International Conference on Machine Learning},
   year={2024}
+}
 ```
